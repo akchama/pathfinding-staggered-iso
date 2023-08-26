@@ -1,4 +1,4 @@
-# Constants
+# Game Constants
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 600
 TILE_WIDTH = 64
